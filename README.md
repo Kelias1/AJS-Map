@@ -9,3 +9,5 @@
 Реализуйте метод translate(code), позволяющий по коду получить текст ошибки, а в случае отсутствия подобного кода возвращать строку 'Unknown error'.
 
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/692jwpa0ve37h4ga?svg=true)](https://ci.appveyor.com/project/Kelias1/ajs-map)
